@@ -10,7 +10,7 @@
 
 ## Getting Started
 
-Please read the [README](README.md#getting-started) file first.
+Please read the [README](README.md) file first.
 
 ## Issues
 
@@ -22,4 +22,4 @@ If you have any improvements to make to this repository, please open a pull requ
 
 ## Further Information
 
-For contact information regarding this repository, please refer to the [README](README.md#contributing) file.
+For contact information regarding this repository, please refer to the [README](README.md file.
